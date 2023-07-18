@@ -1,0 +1,15 @@
+C:\Users\Rafil\Documents\GitHub\csharp-exercises\MNM2_Cronometro\obj\Debug\net7.0\MNM2_Cronometro.csproj.AssemblyReference.cache
+C:\Users\Rafil\Documents\GitHub\csharp-exercises\MNM2_Cronometro\obj\Debug\net7.0\MNM2_Cronometro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafil\Documents\GitHub\csharp-exercises\MNM2_Cronometro\obj\Debug\net7.0\MNM2_Cronometro.AssemblyInfoInputs.cache
+C:\Users\Rafil\Documents\GitHub\csharp-exercises\MNM2_Cronometro\obj\Debug\net7.0\MNM2_Cronometro.AssemblyInfo.cs
+C:\Users\Rafil\Documents\GitHub\csharp-exercises\MNM2_Cronometro\obj\Debug\net7.0\MNM2_Cronometro.csproj.CoreCompileInputs.cache
+C:\Users\Rafil\Documents\GitHub\csharp-exercises\MNM2_Cronometro\bin\Debug\net7.0\MNM2_Cronometro.exe
+C:\Users\Rafil\Documents\GitHub\csharp-exercises\MNM2_Cronometro\bin\Debug\net7.0\MNM2_Cronometro.deps.json
+C:\Users\Rafil\Documents\GitHub\csharp-exercises\MNM2_Cronometro\bin\Debug\net7.0\MNM2_Cronometro.runtimeconfig.json
+C:\Users\Rafil\Documents\GitHub\csharp-exercises\MNM2_Cronometro\bin\Debug\net7.0\MNM2_Cronometro.dll
+C:\Users\Rafil\Documents\GitHub\csharp-exercises\MNM2_Cronometro\bin\Debug\net7.0\MNM2_Cronometro.pdb
+C:\Users\Rafil\Documents\GitHub\csharp-exercises\MNM2_Cronometro\obj\Debug\net7.0\MNM2_Cronometro.dll
+C:\Users\Rafil\Documents\GitHub\csharp-exercises\MNM2_Cronometro\obj\Debug\net7.0\refint\MNM2_Cronometro.dll
+C:\Users\Rafil\Documents\GitHub\csharp-exercises\MNM2_Cronometro\obj\Debug\net7.0\MNM2_Cronometro.pdb
+C:\Users\Rafil\Documents\GitHub\csharp-exercises\MNM2_Cronometro\obj\Debug\net7.0\MNM2_Cronometro.genruntimeconfig.cache
+C:\Users\Rafil\Documents\GitHub\csharp-exercises\MNM2_Cronometro\obj\Debug\net7.0\ref\MNM2_Cronometro.dll
