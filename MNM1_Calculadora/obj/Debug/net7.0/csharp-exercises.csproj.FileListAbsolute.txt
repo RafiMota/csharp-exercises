@@ -1,0 +1,15 @@
+C:\Users\Rafil\Documents\GitHub\csharp-exercises\MNM1_Calculadora\obj\Debug\net7.0\csharp-exercises.csproj.AssemblyReference.cache
+C:\Users\Rafil\Documents\GitHub\csharp-exercises\MNM1_Calculadora\obj\Debug\net7.0\csharp-exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafil\Documents\GitHub\csharp-exercises\MNM1_Calculadora\obj\Debug\net7.0\csharp-exercises.AssemblyInfoInputs.cache
+C:\Users\Rafil\Documents\GitHub\csharp-exercises\MNM1_Calculadora\obj\Debug\net7.0\csharp-exercises.AssemblyInfo.cs
+C:\Users\Rafil\Documents\GitHub\csharp-exercises\MNM1_Calculadora\obj\Debug\net7.0\csharp-exercises.csproj.CoreCompileInputs.cache
+C:\Users\Rafil\Documents\GitHub\csharp-exercises\MNM1_Calculadora\bin\Debug\net7.0\csharp-exercises.exe
+C:\Users\Rafil\Documents\GitHub\csharp-exercises\MNM1_Calculadora\bin\Debug\net7.0\csharp-exercises.deps.json
+C:\Users\Rafil\Documents\GitHub\csharp-exercises\MNM1_Calculadora\bin\Debug\net7.0\csharp-exercises.runtimeconfig.json
+C:\Users\Rafil\Documents\GitHub\csharp-exercises\MNM1_Calculadora\bin\Debug\net7.0\csharp-exercises.dll
+C:\Users\Rafil\Documents\GitHub\csharp-exercises\MNM1_Calculadora\bin\Debug\net7.0\csharp-exercises.pdb
+C:\Users\Rafil\Documents\GitHub\csharp-exercises\MNM1_Calculadora\obj\Debug\net7.0\csharp-exercises.dll
+C:\Users\Rafil\Documents\GitHub\csharp-exercises\MNM1_Calculadora\obj\Debug\net7.0\refint\csharp-exercises.dll
+C:\Users\Rafil\Documents\GitHub\csharp-exercises\MNM1_Calculadora\obj\Debug\net7.0\csharp-exercises.pdb
+C:\Users\Rafil\Documents\GitHub\csharp-exercises\MNM1_Calculadora\obj\Debug\net7.0\csharp-exercises.genruntimeconfig.cache
+C:\Users\Rafil\Documents\GitHub\csharp-exercises\MNM1_Calculadora\obj\Debug\net7.0\ref\csharp-exercises.dll
